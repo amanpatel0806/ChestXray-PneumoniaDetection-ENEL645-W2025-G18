@@ -48,7 +48,7 @@ We implemented **Transfer Learning using ResNet50**, a robust and efficient arch
 
 ## Performance Metrics
 
-- **Accuracy:** `92.80%`
+- **Best Acheived Accuracy:** `92.80%`
 - **Precision, Recall, F1-score:** Not explicitly calculated. Including these metrics would provide a more well-rounded evaluation of the model’s performance.
 
 ## Limitations & Improvements
