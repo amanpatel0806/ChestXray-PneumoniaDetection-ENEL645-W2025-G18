@@ -1,3 +1,6 @@
+# Dataset Link
+https://data.mendeley.com/datasets/rscbjbr9sj/2
+
 # Pneumonia Diagnosis using CNN with Transfer Learning
 
 This project presents a Convolutional Neural Network (CNN) model that utilizes Transfer Learning for Pneumonia diagnosis through chest X-ray images. Our group developed a model to classify images into two categories: `NORMAL` and `PNEUMONIA`.
